@@ -7,6 +7,7 @@ class Array
 	end
 end
 
+
 arr = [1,2,3,4,5,6]
 new_even, new_add = arr.split_by_paraty
 print new_add

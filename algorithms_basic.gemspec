@@ -17,6 +17,7 @@ Gem::Specification.new do |s|
 	s.metadata["source_code_uri"] = "https://github.com/victoroliveira59/gem_algorithms_criation"
 	# s.metadata["changelog_uri] = "
 
+
 	s.files = Dir["lib/**/*.rb"]
 
 

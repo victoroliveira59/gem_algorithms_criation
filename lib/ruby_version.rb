@@ -1,5 +1,3 @@
-
-
 require_relative "ruby_version/version"
 
 module RubyVersion
