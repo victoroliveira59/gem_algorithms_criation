@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
 
 	s.summary = "A gem to partition an array of integers based on parity"
 	s.description = "This gem was created with the intention of developing my skills as a programmer and also provides help for beginners and precisely improve their logic."
-	s.version = "1.0.0"
+	s.version = "1.0.1"
 	s.license = "MIT"
 	s.required_ruby_version = ">= 3.0.2"
 
